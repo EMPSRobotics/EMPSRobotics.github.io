@@ -1,2 +1,0 @@
-# Code Of Conduct
-(INSERT CODE OF CONDUCT HERE)

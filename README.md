@@ -13,4 +13,5 @@ We're are all excited for Rover Ruckus and hope that we will have a great time!
 # Volunteers and sponcers:
 We would really apreciate it if someone would volunteer to help our team build our robot.
 We would also apreciate if anyone can be a sponser and donate money for the parts of the robot and for any other needs for our teem.
-If you are intrested,email our biggest sponser and the person in charge of our team : 
+# coming soon
+If you are intrested,email our biggest sponser and the person in charge of our team

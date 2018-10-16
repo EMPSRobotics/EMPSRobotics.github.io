@@ -17,5 +17,6 @@ We're are all excited for Rover Ruckus and hope that we will have a great time!
 10/11/18:  we scraped our chassy and edited the old robot chassy from last year.
  
 # (NOTE: IF YOU ARE SEEING THIS YOU ARE IN THE WRONG PLACE: GO HERE [https://empsrobotics.github.io] 
-# (COMING SOON)
+# COMING SOON:
 # Sponsers and volunteers
+# team members

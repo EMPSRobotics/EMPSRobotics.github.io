@@ -34,9 +34,9 @@ to do so.
 # COMING SOON:
 more log updates
 
-more team members
+all team members will be added
 
 Sponsers and volunteers wanted page will be added
 
-
+Sponsers and volunteers page will be added
 

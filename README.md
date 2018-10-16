@@ -16,6 +16,8 @@ Smith, Charlie
 Suggs, Malik
 
 Zang,Albert
+# Desingners:
+Murphy,Miles
 # EPMS vs Highschool and other middle schools.
 This year like always, we'll be mostly against high schoolers.
 We will also be against middle schoolers but rarely.
@@ -31,6 +33,8 @@ We're are all excited for Rover Ruckus and hope that we will have a great time!
 (NOTE: IF YOU ARE SEEING THIS YOU ARE IN THE WRONG PLACE: GO HERE (https://empsrobotics.github.io) 
 
 # COMING SOON:
+desingners log
+
 more log updates
 
 all team members will be added

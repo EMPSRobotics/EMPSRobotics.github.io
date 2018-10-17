@@ -32,7 +32,7 @@ We're are all excited for Rover Ruckus and hope that we will have a great time!
 # Programmers log:
 10/11/18-10/16/18: We have been working on the website beyond our teem meets and will continue to do so.
 # sponsors and volunteers:
-If you are interested in being a sponsor or volunteer, please email our head coach:
+If you are interested in being a sponsor or volunteer, please email our head coach: Thomaso2@fultonschools.org
 # Notice 
 (NOTE: IF YOU ARE SEEING THIS YOU ARE IN THE WRONG PLACE: GO HERE (https://empsrobotics.github.io) 
 

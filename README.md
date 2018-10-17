@@ -14,6 +14,8 @@ End3rYT(Patterson, Matt)
 Suggs, Malik
 
 Zang,Albert
+
+Murphy,Miles
 # Desingners:
 Murphy,Miles
 # EPMS vs Highschool and other middle schools.
@@ -29,6 +31,8 @@ We're are all excited for Rover Ruckus and hope that we will have a great time!
 10/11/18:  we scraped our chassy and edited the old robot chassy from last year.
 # Programmers log:
 10/11/18-10/16/18: We have been working on the website beyond our teem meets and will continue to do so.
+# sponsors and volunteers:
+If you are interested in being a sponsor or volunteer, please email our head coach:
 # Notice 
 (NOTE: IF YOU ARE SEEING THIS YOU ARE IN THE WRONG PLACE: GO HERE (https://empsrobotics.github.io) 
 

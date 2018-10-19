@@ -1,1 +1,1 @@
-CodeLock License - 2018
+- CodeLock License

@@ -1,1 +1,7 @@
-
+{
+  "name": "EMPSRobotics.github.io",
+  "version": "",
+  "dependencies": {
+    "Core": "EMPSRobotics/Java-Mainframe",
+  }
+}

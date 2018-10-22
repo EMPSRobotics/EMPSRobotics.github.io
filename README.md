@@ -1,4 +1,3 @@
-sandbox1
 # :sparkles:Epic Pi Bots:sparkles:
 # Overview:
 We are the elkins pointe middle school robotics team,

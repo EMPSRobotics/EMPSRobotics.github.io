@@ -13,7 +13,7 @@ End3rYT(Patterson, Matt)
 # Builders:
 Suggs, Malik
 
-Zang,Albert
+Zhang,Albert
 
 Murphy,Miles
 # Desingners:
@@ -24,7 +24,7 @@ We will also be against middle schoolers but rarely.
 We're are all excited for Rover Ruckus and hope that we will have a great time!
 # Online Logs
 # Team log:
-10/16/18: All members present at time will try driving the robot
+10/16/18: All members present at time will try driving the robot.
 # Builders log:
 10/9/18: we started to work on the chassy and finished a basic product.
 
